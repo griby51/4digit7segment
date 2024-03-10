@@ -1,4 +1,4 @@
-//Faire un defilement de texte grace a Arduibo et un affichage de chiffre
+//Faire un defilement de texte grace a Arduino et un afficheur 4digit 7segment
 
 #include <Arduino.h>
 #include <SevenSegmentDisplay.h>
