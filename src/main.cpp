@@ -1,3 +1,5 @@
+//Faire un defilement de texte grace a Arduibo et un affichage de chiffre
+
 #include <Arduino.h>
 #include <SevenSegmentDisplay.h>
 
