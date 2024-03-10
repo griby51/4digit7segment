@@ -1,4 +1,4 @@
-//Faire un defilement de texte grace a Arduino et un afficheur 4digit 7segment
+//Faire un defilement de texte grace a Arduino et un afficheur 4digit 7segment aaaaaaaaaa
 
 #include <Arduino.h>
 #include <SevenSegmentDisplay.h>
